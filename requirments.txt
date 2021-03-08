@@ -1,0 +1,4 @@
+gym
+stable_baselines
+tensorflow==1.15
+mpi4py #for DDPG
